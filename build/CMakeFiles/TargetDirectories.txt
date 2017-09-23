@@ -1,0 +1,5 @@
+/home/zz/Documents/Try/build/CMakeFiles/rebuild_cache.dir
+/home/zz/Documents/Try/build/CMakeFiles/edit_cache.dir
+/home/zz/Documents/Try/build/src/CMakeFiles/rebuild_cache.dir
+/home/zz/Documents/Try/build/src/CMakeFiles/edit_cache.dir
+/home/zz/Documents/Try/build/src/CMakeFiles/readIMG.dir
